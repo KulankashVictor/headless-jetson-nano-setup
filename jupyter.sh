@@ -1,5 +1,4 @@
 #!/bin/bash
-# Animesh Bala Ani (ANI717)
 
 # exit immediately if a command exits with a non-zero status.
 set -e
